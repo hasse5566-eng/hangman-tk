@@ -1,9 +1,10 @@
 # Hangman 
 Så här spelar man:
-1. Starta filen `hangman_tk.py`
+1. Starta filen `hangman_tk.py` i Visual Studio Code
 2. Gissa en bokstav i taget
 3. Du får max 6 fel
 4. Gissa rätt på alla bokstäver för att vinna
+
 
 
 
