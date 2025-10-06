@@ -9,6 +9,7 @@ WORD_LIST = ["apple", "banana", "dog", "cat", "school", "python", "computer", "c
 #antal fel
 MAX_MISTAKES = 6 
 
+#Huvudfunktionen
 def main(): 
     secret = random.choice(WORD_LIST)
     shown = ["_"] * len(secret)
@@ -100,4 +101,5 @@ if __name__ == "__main__":
 #3. Du får max 6 fel
 #4. Avslöja alla bokstäver för att vinna
     
+
     
